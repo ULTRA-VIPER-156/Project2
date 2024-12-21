@@ -1,0 +1,38 @@
+body{
+
+    background-color: black;
+    background-image:url(Images/4XnJgaT_gif\ \(1920×1080\).gif
+    
+    );
+
+    height:auto;
+    width:100%;
+    
+    
+    .archivo-black-regular {
+        font-family: "Archivo Black", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+
+}#bx{
+  height: 110px;
+  width: 200px;
+  background-color:palegreen;
+  border-radius: 40px;
+  font-size: 50px;
+ border: 2px solid palegreen;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+ 
+  
+}
+#bx:hover{
+  background-color: greenyellow;
+  
+  opacity: 20;
+
+}
+  
+
+
