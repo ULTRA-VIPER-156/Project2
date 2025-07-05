@@ -28,7 +28,9 @@ h1{
     
 }
 .vids{
-    width: 100%
+    width: 100vh;
+    height:600px;
+    
     
 
 
